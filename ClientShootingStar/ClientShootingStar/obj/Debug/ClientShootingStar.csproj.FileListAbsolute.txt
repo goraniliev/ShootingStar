@@ -1,0 +1,9 @@
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\bin\Debug\ClientShootingStar.exe.config
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\bin\Debug\ClientShootingStar.exe
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\bin\Debug\ClientShootingStar.pdb
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\obj\Debug\ClientShootingStar.csprojResolveAssemblyReference.cache
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\obj\Debug\ClientShootingStar.Form1.resources
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\obj\Debug\ClientShootingStar.Properties.Resources.resources
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\obj\Debug\ClientShootingStar.csproj.GenerateResource.Cache
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\obj\Debug\ClientShootingStar.exe
+c:\users\goran\documents\visual studio 2013\Projects\ClientShootingStar\ClientShootingStar\obj\Debug\ClientShootingStar.pdb
